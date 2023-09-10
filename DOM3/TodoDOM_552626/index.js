@@ -6,7 +6,7 @@ let taskName = document.getElementById("task").value ;
 let priority = document.getElememtById("priority").value ;
 
 let tbody = document.querySelector("tbody");
-let row = document,creatElement("tr");
+let row = document.creatElement("tr");
 
 let data =[taskNmae , priority]
 
